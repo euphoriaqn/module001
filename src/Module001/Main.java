@@ -5,6 +5,6 @@ package Module001;
  */
 public class Main {
     public static void main(String[] args){
-        System.out.println("Лето 2017 года я проведу просто замечательно!!GoJava!!!!");
+        System.out.println("Лето 2017 года я проведу просто замечательно!!GoJava!!!!!");
     }
 }
